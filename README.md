@@ -8,6 +8,7 @@ Lägg in mockups, planer, ider och liknande här.
 - Planering
   - Hur arbetet skall fordelas 
   - Flodesschema 
-  - Boka Zoom meeting m. Tomas 
+  - Boka Zoom meeting m. Tomas
+  -
   
   
